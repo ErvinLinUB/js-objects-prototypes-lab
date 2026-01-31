@@ -1,3 +1,5 @@
+/*----- Part 1: Function Syntax -----*/
+
 /*
 Exercise 1: Function Declarations
 
